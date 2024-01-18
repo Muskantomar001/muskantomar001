@@ -2,13 +2,9 @@
 
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi there 👋, I'm Muskan Tomar</a></font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nasiullha-chaudhari/" target="_blank" rel="noreferrer">Nasi</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps for 3+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
-
-<!-- Schedule a 1-on-1 Call Section -->
-<h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Call:</font></h3>
-<p align="left">
-  <a href="https://topmate.io/nasiullha_chaudhari" target="_blank" rel="noreferrer"> Book a Call with me! </a>
-</p>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/muskan-tomar-b3566615a/" target="_blank" rel="noreferrer">Muskan</a> is a passionate Cloud and DevOps Engineer from India, working on Cloud and DevOps for 3 years now. Feel free to reach out for any Freelance Projects.
+<br>
+Azure solutions Architect | DevOps | Automation | Security | Kubernetes & Docker | Terraform</font></h3>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />

@@ -64,8 +64,7 @@ Azure solutions Architect | DevOps | Automation | Security | Kubernetes & Docker
 <p align="left">
 </p>
 
-- 💬 Ask me about **DevOps**
-- 📫 How to reach me **(mailto:muskantomar001@gmail)**
+
 
 
 

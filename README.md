@@ -55,7 +55,7 @@ Azure solutions Architect | DevOps | Automation | Security | Kubernetes & Docker
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/muskantomar001/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://muskantomar001.medium.com/">
-			<img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" ></a>
+			<img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/c/ZeeiDeveloper">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://play.google.com/store/apps/dev?id=5506644742288227696&hl=in&gl=US">

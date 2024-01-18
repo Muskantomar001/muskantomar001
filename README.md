@@ -56,6 +56,8 @@ Azure solutions Architect | DevOps | Automation | Security | Kubernetes & Docker
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://muskantomar001.medium.com/">
 			<img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" width="40" height="40"></a>
+	 <a style="margin-left: 10px;" target="_blank" href="mailto:muskantomar001@gmail.com">
+			<img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" width="40" height="40"></a>
       </div>
 
 </p>

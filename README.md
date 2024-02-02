@@ -3,7 +3,7 @@
 <h3 align="center"><font face="Arial">
 Azure solutions Architect | DevOps | Automation | Security | Kubernetes & Docker | Terraform
 <br>      
-<a href="https://www.linkedin.com/in/muskan-tomar-b3566615a/" target="_blank" rel="noreferrer">Muskan</a> is a passionate Cloud and DevOps Engineer from India, working on Cloud and DevOps for 3 years now. Feel free to reach out for any any projects.
+<a href="https://www.linkedin.com/in/muskan-tomar-b3566615a/" target="_blank" rel="noreferrer">Muskan</a> is a passionate Cloud and DevOps Engineer from India, working on Cloud and DevOps for 3 years now. Feel free to reach out for any projects.
 </font></h3>
 
 <!-- GIF -->

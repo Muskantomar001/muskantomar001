@@ -3,7 +3,7 @@
 <h3 align="center"><font face="Arial">
 Azure solutions Architect | DevOps | Automation | Security | Kubernetes & Docker | Terraform
 <br>      
-<a href="https://www.linkedin.com/in/muskan-tomar-b3566615a/" target="_blank" rel="noreferrer">Muskan</a> is a passionate Cloud, Devops and Security Engineer from India, working ot the intersection of Site Reliability, Infrastructure Security and Software Development for over 5 years now. 
+<a href="https://www.linkedin.com/in/muskan-tomar-b3566615a/" target="_blank" rel="noreferrer">Muskan</a> is a passionate Cloud, Devops and Security Engineer from India, working at Microsoft. My background lies at the intersection of Site Reliability, Infrastructure Security and Software Development for over 5 years now. 
 </font></h3>
 
 <!-- GIF -->
@@ -11,9 +11,9 @@ Azure solutions Architect | DevOps | Automation | Security | Kubernetes & Docker
 
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
-
-MICROSOFT 
+ 
 - I work on Cloud, Security, DevOps, AI, Automation, Microservices, containers, and everything around it.
+  
 
 #### Programming Language Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> </p>

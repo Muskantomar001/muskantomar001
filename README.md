@@ -5,7 +5,7 @@ Azure solutions Architect | DevOps | Automation & AI | Security | Kubernetes & D
 <br>     
 <br>	
 <a href="https://www.linkedin.com/in/muskan-tomar-b3566615a/" target="_blank" rel="noreferrer">Muskan</a> is a passionate Cloud, DevOps and Security Engineer from India, working at Microsoft. 
-I enjoy working on systems that are expected to never go down, stay secure, and scale quietly in the background. Most of my work lives where cloud reliability, security, and automation overlap — the space where small design decisions make a big difference! 
+I enjoy working on systems that are expected to <B>never go down, stay secure, and scale quietly in the background</B>. Most of my work lives where cloud reliability, security, and automation overlap — the space where small design decisions make a big difference! 
 </font></h3>
 
 <!-- GIF -->

@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi there 👋, I'm <a href="https://muskantomar001.github.io" target="_blank" rel="noreferrer">Muskan Tomar</a></font></h1>
 <h3 align="center"><font face="Arial">
-Azure solutions Architect | DevOps | Automation | Security | Kubernetes & Docker | Terraform
+Azure solutions Architect | DevOps | Automation & AI | Security | Kubernetes & Docker | Terraform
 <br>     
 <br>	
 <a href="https://www.linkedin.com/in/muskan-tomar-b3566615a/" target="_blank" rel="noreferrer">Muskan</a> is a passionate Cloud, DevOps and Security Engineer from India, working at Microsoft. My background lies at the intersection of Site Reliability, Infrastructure Security and Software Development for over 5 years now. 
